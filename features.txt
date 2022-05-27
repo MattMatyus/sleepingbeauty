@@ -1,0 +1,8 @@
+front end gui
+- simple page to enter security and time 
+
+backend api
+- talks to tradovate
+
+- need to manage creds
+
